@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pytest
+# Provides the `stc` package used by the monitor and search.
+git+https://github.com/olamida/stc-corridors.git
